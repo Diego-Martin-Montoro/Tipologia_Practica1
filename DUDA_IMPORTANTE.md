@@ -1,7 +1,7 @@
 
 Escribimos este pequeño fichero para preguntarle sobre una cuestión que nos inquieta.
 
-Al usar los 13300 links de cada una de las descripciones de los teléfonos para bajar el dataset final, resulta que hemos obtenido muchísimos datos menos (entorno a 4000).
+Al usar los 7000 links de cada una de las descripciones de los teléfonos para bajar el dataset final, resulta que hemos obtenido muchísimos datos menos (entorno a 3600).
 Por lo que hemos estado observando, creemos que se debe a que:
 
 * Hay una gran mayoría de artículos de telefonía camuflados como teléfonos móviles que salen al realizar la búsqueda en amazon y esto no 
