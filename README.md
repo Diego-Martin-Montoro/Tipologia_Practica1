@@ -1,5 +1,5 @@
-# Amazon Smartphones Scraper
-Este scraper extrae información de todos los smartphones en venta en amazon.es actualmente.  Ha sido realizado por Diego Martín Montoro y XXXX.
+# 4m4z0n Smartphones Scraper
+Este scraper extrae información de todos los smartphones en venta en 4m4z0n.es actualmente.  Ha sido realizado por Diego Martín Montoro y XXXX.
 
 Para la ejecución del scraper es necesario instalar los siguientes paquetes:  
 
@@ -28,7 +28,7 @@ __NOTA IMPORTANTE__: es necesaria la presencia en la misma carpeta de los siguie
 2. Carpeta temp : en ella se crear archivos temporales necesarios para la correcta paralelización del script.
 3. Carpeta Pictures: es donde se almacenarán las imágenes de los teléfonos.
 
-La ejecución se divide en dos procesos: uno que genera un archivo llamado moviles_links.csv que contiene el resultado de un primer raspado de datos de Amazon ; y otro que generará el conjunto de datos final, llamado moviles_datos.csv, que será extraído usando los enlaces del fichero moviles_links.csv.
+La ejecución se divide en dos procesos: uno que genera un archivo llamado moviles_links.csv que contiene el resultado de un primer raspado de datos de 4m4z0n ; y otro que generará el conjunto de datos final, llamado moviles_datos.csv, que será extraído usando los enlaces del fichero moviles_links.csv.
 
 Los datos contenidos en el fichero final corresponden a las siguientes características de cada teléfono:
 * Marca: marca del teléfono, suele coincidir con el fabricante.
