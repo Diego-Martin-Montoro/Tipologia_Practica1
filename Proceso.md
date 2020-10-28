@@ -2,7 +2,7 @@ En esta pequeña nota queremos explicar brevemente como es el proceso de extracc
 
 Procedemos a ejecutar el scraper descomentado solo el primer grupo de líneas del código principal.  
 
-En primer lugar se extraen todos los enlaces a las descripciones de producto de una búsqueda con la keyword "smartphone" en amazon:  
+En primer lugar se extraen todos los enlaces a las descripciones de producto de una búsqueda con la keyword "smartphone" en 4m4z0n:  
 
 <img align="center" width="1200" height="500" src="/imagenes wiki/amazon_search.png">
 
