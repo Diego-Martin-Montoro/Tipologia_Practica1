@@ -43,5 +43,11 @@ Los datos contenidos en el fichero final corresponden a las siguientes caracter�
 * Precio: precio actual del teléfono.
 * Imagen: ruta de la imagen del teléfono en la carpeta pictures.
 
-La carpeta SRC contiene todos los ficheros necesarios para la ejecución: scraper.py, proxies_list.csv y las carpetas temp y Pictures.  
+__El DOI: 10.5281/zenodo.4135053__
+
+La carpeta SRC contiene todos los ficheros necesarios para la ejecución: 
+    scraper.py: contiene el código del scraper
+    proxies_list.csv: contiene la lista de servidores proxy.
+    Las carpetas temp y Pictures necesarias para la ejecución del script.
+    
 El archivo proceso.md contiene información sobre como realizar correctamente la extracción de datos usando el script.
