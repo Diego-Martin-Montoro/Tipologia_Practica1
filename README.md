@@ -1,5 +1,5 @@
 # Smartphones Scraper
-Este scraper extrae información de todos los smartphones en venta en 4m4z0n.es actualmente.  Ha sido realizado por Diego Martín Montoro y XXXX.
+Este scraper extrae información de todos los smartphones en venta en 4m4z0n.es actualmente.  Ha sido realizado por Diego Martín Montoro y Javier Hernández Hernández.
 
 Para la ejecución del scraper es necesario instalar los siguientes paquetes:  
 
