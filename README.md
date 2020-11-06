@@ -45,9 +45,9 @@ Los datos contenidos en el fichero final corresponden a las siguientes caracter�
 
 __El DOI: 10.5281/zenodo.4135053__
 
-La carpeta SRC contiene todos los ficheros necesarios para la ejecuci처n: 
-    scraper.py: contiene el c처digo del scraper
-    proxies_list.csv: contiene la lista de servidores proxy.
-    Las carpetas temp y Pictures necesarias para la ejecuci처n del script.
+La carpeta SRC contiene todos los ficheros necesarios para la ejecuci처n:   
+    scraper.py: contiene el c처digo del scraper  
+    proxies_list.csv: contiene la lista de servidores proxy.  
+    Las carpetas temp y Pictures necesarias para la ejecuci처n del script.  
     
 El archivo proceso.md contiene informaci처n sobre como realizar correctamente la extracci처n de datos usando el script.
