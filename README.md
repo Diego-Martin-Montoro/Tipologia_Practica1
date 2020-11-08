@@ -43,7 +43,7 @@ Los datos contenidos en el fichero final corresponden a las siguientes caracter�
 * Precio: precio actual del teléfono.
 * Imagen: ruta de la imagen del teléfono en la carpeta pictures.
 
-__El DOI: 10.5281/zenodo.4135053__
+__El DOI: 10.5281/zenodo.4260659__
 
 La carpeta SRC contiene todos los ficheros necesarios para la ejecución:   
     scraper.py: contiene el código del scraper  
